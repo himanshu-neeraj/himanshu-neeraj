@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Neeraj</h1>
 <h3 align="center">Aspiring AI Professional | B.Sc. Data Science & Artificial Intelligence</h3>
 
-<!-- Python Interface Typing Animation (WORKING) -->
+<!-- Python Interface Typing Animation (Intro) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=%3E%3E%3E+import+ai;%3E%3E%3E+name+%3D+%22Himanshu+Neeraj%22;%3E%3E%3E+print(name);Himanshu+Neeraj;Aspiring+AI+Professional;Learning+Python%2C+ML+%26+Deep+Learning" alt="Python typing animation"/>
 </p>
@@ -32,6 +32,11 @@ to improve content visibility and audience reach.
 • Build impactful machine learning & automation projects<br>
 • Master Deep Learning, NLP & Advanced Algorithms<br>
 • Contribute actively to open-source communities<br>
+</p>
+
+<!-- Python Code Typing Animation (After Career Goals) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=def+learn_ai():;++++print(%22Practice+Every+Day%22);++++return+%22Growth%22;learn_ai()" alt="Python code typing"/>
 </p>
 
 <hr>
@@ -74,5 +79,5 @@ to improve content visibility and audience reach.
 <hr>
 
 <p align="center">
-<i>“Strong fundamentals today build intelligent systems tomorrow.”</i>
+<i>“Code daily. Improve constantly. Think intelligently.”</i>
 </p>
