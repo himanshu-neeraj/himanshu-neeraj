@@ -1,47 +1,47 @@
-<h1 align="center">Hi, I'm Himanshu Neeraj 👋</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Neeraj</h1>
 <h3 align="center">Aspiring AI Professional | B.Sc. Data Science & Artificial Intelligence</h3>
 
-<!-- Professional Typing / Work Desk GIF -->
+<!-- Professional Working / Office Environment GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="480" alt="professional typing at desk"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="professional working at laptop"/>
 </p>
 
 <p align="center">
-  <sub>Building intelligent solutions with code, data, and curiosity</sub>
+  <sub>Focused on learning, building, and growing through technology</sub>
 </p>
 
 <hr>
 
-<h3 align="left">🧩 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-I'm <b>Himanshu Neeraj</b>, an aspiring <b>Artificial Intelligence professional</b> currently pursuing 
+I’m <b>Himanshu Neeraj</b>, an aspiring <b>Artificial Intelligence professional</b> currently pursuing
 <b>B.Sc. in Data Science & Artificial Intelligence</b>.<br><br>
 
-I enjoy working on <b>machine learning models</b>, analyzing data patterns, and developing 
-<b>AI-driven solutions</b> for real-world problems.<br><br>
+I enjoy working with <b>machine learning models</b>, analyzing datasets, and building
+<b>AI-driven solutions</b> that solve real-world problems.<br><br>
 
-Beyond AI, I have a keen interest in <b>Digital Marketing & SEO</b>, where I combine data insights 
-with optimization strategies to improve online visibility and engagement.
+Alongside AI, I have a strong interest in <b>Digital Marketing & SEO</b>, where I apply data insights
+to improve reach, visibility, and user engagement.
 </p>
 
 <hr>
 
-<h3 align="left">🎯 Professional Goals</h3>
+<h3 align="left">🎯 Career Goals</h3>
 <p align="left">
-✔ Grow into a skilled AI Engineer<br>
-✔ Build reliable and scalable ML automation systems<br>
-✔ Develop expertise in Deep Learning, NLP & Computer Vision<br>
-✔ Actively contribute to open-source and research-based projects<br>
+• Become a skilled AI Engineer<br>
+• Build scalable machine learning & automation systems<br>
+• Master Deep Learning, NLP & Computer Vision<br>
+• Contribute to impactful open-source projects<br>
 </p>
 
 <hr>
 
-<h3 align="left">📘 Currently Learning</h3>
+<h3 align="left">📚 Currently Learning</h3>
 <p align="left">
 • Advanced Machine Learning & Deep Learning (PyTorch, TensorFlow)<br>
 • Data Analysis & Visualization (Python, Pandas, NumPy, Seaborn)<br>
 • Computer Vision using OpenCV<br>
-• Database Technologies: MySQL, MongoDB, Oracle<br>
+• Databases: MySQL, MongoDB, Oracle<br>
 • End-to-end AI automation projects<br>
 • Model improvement through Kaggle competitions<br>
 </p>
@@ -74,5 +74,5 @@ with optimization strategies to improve online visibility and engagement.
 <hr>
 
 <p align="center">
-<i>“Strong fundamentals today build intelligent systems tomorrow.”</i>
+<i>“Discipline, learning, and consistency build great engineers.”</i>
 </p>
