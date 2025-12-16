@@ -1,27 +1,30 @@
 <h1 align="center">Hi 👋, I'm Himanshu Neeraj</h1>
 <h3 align="center">Aspiring AI Professional | B.Sc. Data Science & Artificial Intelligence</h3>
 
-<!-- Professional Working / Office Environment GIF -->
+<!-- Professional Typing Animation with Name -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="professional working at laptop"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Himanshu+Neeraj;Aspiring+AI+Professional;Learning+Machine+Learning+%26+Deep+Learning;Building+Intelligent+Systems" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
-  <sub>Focused on learning, building, and growing through technology</sub>
+  <sub>Focused on professional growth through code, data, and discipline</sub>
 </p>
 
 <hr>
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-I’m <b>Himanshu Neeraj</b>, an aspiring <b>Artificial Intelligence professional</b> currently pursuing
+Hi, I'm <b>Himanshu Neeraj</b> — an aspiring <b>Artificial Intelligence professional</b> currently pursuing
 <b>B.Sc. in Data Science & Artificial Intelligence</b>.<br><br>
 
-I enjoy working with <b>machine learning models</b>, analyzing datasets, and building
-<b>AI-driven solutions</b> that solve real-world problems.<br><br>
+I love building <b>intelligent systems</b>, experimenting with <b>machine learning models</b>,
+and solving <b>real-world problems using data</b>.<br><br>
 
-Alongside AI, I have a strong interest in <b>Digital Marketing & SEO</b>, where I apply data insights
-to improve reach, visibility, and user engagement.
+Along with AI, I also focus on <b>Digital Marketing & SEO</b>, where I apply data-driven strategies
+to improve content visibility and audience reach.
 </p>
 
 <hr>
@@ -29,9 +32,9 @@ to improve reach, visibility, and user engagement.
 <h3 align="left">🎯 Career Goals</h3>
 <p align="left">
 • Become a skilled AI Engineer<br>
-• Build scalable machine learning & automation systems<br>
-• Master Deep Learning, NLP & Computer Vision<br>
-• Contribute to impactful open-source projects<br>
+• Build impactful machine learning & automation projects<br>
+• Master Deep Learning, NLP & Advanced Algorithms<br>
+• Contribute actively to open-source communities<br>
 </p>
 
 <hr>
@@ -42,8 +45,8 @@ to improve reach, visibility, and user engagement.
 • Data Analysis & Visualization (Python, Pandas, NumPy, Seaborn)<br>
 • Computer Vision using OpenCV<br>
 • Databases: MySQL, MongoDB, Oracle<br>
-• End-to-end AI automation projects<br>
-• Model improvement through Kaggle competitions<br>
+• Real-world AI automation projects<br>
+• ML problem-solving through Kaggle competitions<br>
 </p>
 
 <hr>
@@ -74,5 +77,5 @@ to improve reach, visibility, and user engagement.
 <hr>
 
 <p align="center">
-<i>“Discipline, learning, and consistency build great engineers.”</i>
+<i>“Strong fundamentals today build intelligent systems tomorrow.”</i>
 </p>
