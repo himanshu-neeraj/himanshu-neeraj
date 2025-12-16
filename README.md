@@ -1,16 +1,29 @@
 <h1 align="center">Hi 👋, I'm Himanshu Neeraj</h1>
 <h3 align="center">Aspiring AI Professional | B.Sc. Data Science & Artificial Intelligence</h3>
 
-<!-- Professional Typing Animation with Name -->
+<!-- Python Interface Typing Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Himanshu+Neeraj;Aspiring+AI+Professional;Learning+Machine+Learning+%26+Deep+Learning;Building+Intelligent+Systems" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+size=22&
+pause=1200&
+color=22C55E&
+center=true&
+vCenter=true&
+width=700&
+lines=%3E%3E%3E+import+ai;
+%3E%3E%3E+name+%3D+%22Himanshu+Neeraj%22;
+%3E%3E%3E+print(name);
+Himanshu+Neeraj;
+Aspiring+AI+Professional;
+Learning+Python%2C+ML+%26+Deep+Learning"
+    alt="Python typing animation"
   />
 </p>
 
 <p align="center">
-  <sub>Focused on professional growth through code, data, and discipline</sub>
+  <sub>Python • Data • Artificial Intelligence</sub>
 </p>
 
 <hr>
@@ -20,11 +33,11 @@
 Hi, I'm <b>Himanshu Neeraj</b> — an aspiring <b>Artificial Intelligence professional</b> currently pursuing
 <b>B.Sc. in Data Science & Artificial Intelligence</b>.<br><br>
 
-I love building <b>intelligent systems</b>, experimenting with <b>machine learning models</b>,
+I enjoy building <b>intelligent systems</b>, experimenting with <b>machine learning models</b>,
 and solving <b>real-world problems using data</b>.<br><br>
 
-Along with AI, I also focus on <b>Digital Marketing & SEO</b>, where I apply data-driven strategies
-to improve content visibility and audience reach.
+Along with AI, I also focus on <b>Digital Marketing & SEO</b>, where I combine analytics,
+optimization strategies, and data-driven decision making.
 </p>
 
 <hr>
@@ -45,7 +58,7 @@ to improve content visibility and audience reach.
 • Data Analysis & Visualization (Python, Pandas, NumPy, Seaborn)<br>
 • Computer Vision using OpenCV<br>
 • Databases: MySQL, MongoDB, Oracle<br>
-• Real-world AI automation projects<br>
+• End-to-end AI automation projects<br>
 • ML problem-solving through Kaggle competitions<br>
 </p>
 
@@ -77,5 +90,5 @@ to improve content visibility and audience reach.
 <hr>
 
 <p align="center">
-<i>“Strong fundamentals today build intelligent systems tomorrow.”</i>
+<i>“Code it. Learn it. Improve it.”</i>
 </p>
