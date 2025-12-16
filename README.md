@@ -1,25 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Neeraj</h1>
 <h3 align="center">Aspiring AI Professional | B.Sc. Data Science & Artificial Intelligence</h3>
 
-<!-- Python Interface Typing Animation -->
+<!-- Python Interface Typing Animation (WORKING) -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=22&
-pause=1200&
-color=22C55E&
-center=true&
-vCenter=true&
-width=700&
-lines=%3E%3E%3E+import+ai;
-%3E%3E%3E+name+%3D+%22Himanshu+Neeraj%22;
-%3E%3E%3E+print(name);
-Himanshu+Neeraj;
-Aspiring+AI+Professional;
-Learning+Python%2C+ML+%26+Deep+Learning"
-    alt="Python typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=%3E%3E%3E+import+ai;%3E%3E%3E+name+%3D+%22Himanshu+Neeraj%22;%3E%3E%3E+print(name);Himanshu+Neeraj;Aspiring+AI+Professional;Learning+Python%2C+ML+%26+Deep+Learning" alt="Python typing animation"/>
 </p>
 
 <p align="center">
@@ -33,11 +17,11 @@ Learning+Python%2C+ML+%26+Deep+Learning"
 Hi, I'm <b>Himanshu Neeraj</b> — an aspiring <b>Artificial Intelligence professional</b> currently pursuing
 <b>B.Sc. in Data Science & Artificial Intelligence</b>.<br><br>
 
-I enjoy building <b>intelligent systems</b>, experimenting with <b>machine learning models</b>,
+I love building <b>intelligent systems</b>, experimenting with <b>machine learning models</b>,
 and solving <b>real-world problems using data</b>.<br><br>
 
-Along with AI, I also focus on <b>Digital Marketing & SEO</b>, where I combine analytics,
-optimization strategies, and data-driven decision making.
+Along with AI, I also focus on <b>Digital Marketing & SEO</b>, where I apply data-driven strategies
+to improve content visibility and audience reach.
 </p>
 
 <hr>
@@ -58,7 +42,7 @@ optimization strategies, and data-driven decision making.
 • Data Analysis & Visualization (Python, Pandas, NumPy, Seaborn)<br>
 • Computer Vision using OpenCV<br>
 • Databases: MySQL, MongoDB, Oracle<br>
-• End-to-end AI automation projects<br>
+• Real-world AI automation projects<br>
 • ML problem-solving through Kaggle competitions<br>
 </p>
 
@@ -90,5 +74,5 @@ optimization strategies, and data-driven decision making.
 <hr>
 
 <p align="center">
-<i>“Code it. Learn it. Improve it.”</i>
+<i>“Strong fundamentals today build intelligent systems tomorrow.”</i>
 </p>
