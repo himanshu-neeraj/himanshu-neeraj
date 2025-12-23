@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00F2EA&center=true&vCenter=true&width=600&lines=%3E+Initializing+AI+Generalist+Mission...;%3E+Mastering+the+Full+AI+Stack...;%3E+Code+it.+Test+it.+Ship+it.;%3E+Status:+ONLINE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00F2EA&center=true&vCenter=true&width=600&lines=%3E+Initializing+AI+Generalist+Mission...;%3E+Mastering+the+Full+AI+Stack...;%3E+Status:+ONLINE" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,22 +12,23 @@
 
 <table align="center" border="0" bgcolor="#0d1117">
   <tr>
-    <td width="60%" valign="center">
-      <pre align="left"><font color="#00F2EA">root@himanshu:~$</font> <font color="#ffffff">cat mission_briefing.txt</font></pre>
-      <br>
-      <p align="left">
+    <td width="60%" valign="center" style="padding: 20px;">
+      <p align="left" style="font-size: 1.1em;">
         👋 <b>Welcome to my corner of the internet.</b>
         <br><br>
-        I’m an AI student on a mission to master the <b style="color:#00F2EA">Full Stack of AI</b>,from the math that powers the models to the code that deploys them.
+        I’m an AI student on a mission to master the <b style="color:#00F2EA">Full Stack of AI</b>, from the math that powers the models to the code that deploys them.
         <br><br>
-        🎯 <b>My Philosophy:</b> I don't just like AI; I'm obsessed with solving real-world problems. I keep things straight-forward:
+        I don't just like AI; I'm obsessed with how it solves real-world problems. I keep things straight-forward:
       </p>
-      <h3 align="left">
-        <span style="color:#8A2BE2;">&gt;_ Code it. Test it. Ship it.</span>
-      </h3>
+      <br>
+      <h2 align="center">
+        <span style="background: linear-gradient(to right, #00F2EA, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">
+          >_ Code it. Test it. Ship it.
+        </span>
+      </h2>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F2EA;" alt="AI Animation">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90%" style="border-radius: 10px; box-shadow: 0px 0px 20px #8A2BE2;" alt="AI Animation">
     </td>
   </tr>
 </table>
@@ -42,14 +43,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <br/><br/>
-  
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
   <br/><br/>
-  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -59,25 +57,34 @@
 
 <h2 align="center">🔭 <span style="color:#00F2EA">Highlighted Projects (The Code)</span></h2>
 
-### 1. 🌐 [Himanshu-Neeraj-Portfolio](https://github.com/himanshu-neeraj/Himanshu-Neeraj-Portfolio)
-> **The hub of my digital identity.**
-> This isn't just a landing page; it's a showcase built with **JavaScript**. It serves as the central point for my work, blog posts, and project updates.
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 800px; margin: auto;">
 
-### 2. 🐍 [The Python Grimoire (Python)](https://github.com/himanshu-neeraj/Python)
-> **From "Hello World" to Advanced Logic.**
-> Originally a comprehensive college assignment, this has evolved into a massive library of Python theory and code examples. If you need a reference for syntax or logic, it's probably in here.
+  <div style="border: 1px solid #00F2EA; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0d1117, #161b22); box-shadow: 0 4px 8px rgba(0, 242, 234, 0.1); text-align: left;">
+    <h3 style="margin-top: 0;"><a href="https://github.com/himanshu-neeraj/Himanshu-Neeraj-Portfolio" style="color: #00F2EA; text-decoration: none;">🌐 Himanshu-Neeraj-Portfolio</a></h3>
+    <p><i>The hub of my digital identity.</i> Built with <b>JavaScript</b>, serves as the central point for my work, blog posts, and project updates.</p>
+  </div>
 
-### 3. 📊 [Visualization-Tools](https://github.com/himanshu-neeraj/Visualization-Tools)
-> **Making Data Talk.**
-> Data is useless if you can't understand it. This repo explores various visualization techniques to turn raw numbers into actionable insights.
+  <div style="border: 1px solid #8A2BE2; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0d1117, #161b22); box-shadow: 0 4px 8px rgba(138, 43, 226, 0.1); text-align: left;">
+    <h3 style="margin-top: 0;"><a href="https://github.com/himanshu-neeraj/Python" style="color: #8A2BE2; text-decoration: none;">🐍 The Python Grimoire</a></h3>
+    <p><i>From "Hello World" to Advanced Logic.</i> A massive library of Python theory and code examples. Your go-to reference for syntax or logic.</p>
+  </div>
 
-### 4. 🧮 [Computational-Techniques](https://github.com/himanshu-neeraj/Computational-Techniques)
-> **The Math behind the Magic.**
-> AI isn't magic; it's math. This repo dives into the numerical methods and computational logic that power the algorithms we use every day.
+  <div style="border: 1px solid #00F2EA; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0d1117, #161b22); box-shadow: 0 4px 8px rgba(0, 242, 234, 0.1); text-align: left;">
+    <h3 style="margin-top: 0;"><a href="https://github.com/himanshu-neeraj/Visualization-Tools" style="color: #00F2EA; text-decoration: none;">📊 Visualization-Tools</a></h3>
+    <p><i>Making Data Talk.</i> Explores various visualization techniques to turn raw numbers into actionable insights. Data is useless if you can't understand it.</p>
+  </div>
 
-### 5. 💾 [SQL-Programming](https://github.com/himanshu-neeraj/SQL-Programming-)
-> **Data Wrangling HQ.**
-> Because before you can train a model, you have to get the data out of the database.
+  <div style="border: 1px solid #8A2BE2; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0d1117, #161b22); box-shadow: 0 4px 8px rgba(138, 43, 226, 0.1); text-align: left;">
+    <h3 style="margin-top: 0;"><a href="https://github.com/himanshu-neeraj/Computational-Techniques" style="color: #8A2BE2; text-decoration: none;">🧮 Computational-Techniques</a></h3>
+    <p><i>The Math behind the Magic.</i> AI isn't magic; it's math. Dives into the numerical methods and computational logic that power algorithms.</p>
+  </div>
+
+   <div style="border: 1px solid #00F2EA; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0d1117, #161b22); box-shadow: 0 4px 8px rgba(0, 242, 234, 0.1); text-align: left;">
+    <h3 style="margin-top: 0;"><a href="https://github.com/himanshu-neeraj/SQL-Programming-" style="color: #00F2EA; text-decoration: none;">💾 SQL-Programming</a></h3>
+    <p><i>Data Wrangling HQ.</i> Because before you can train a model, you have to get the data out of the database.</p>
+  </div>
+
+</div>
 
 ---
 
@@ -89,7 +96,11 @@
     <img src="https://img.shields.io/badge/YouTube_Channel-SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
   </a>
   <br/><br/>
-  👉 <b>Latest Video:</b> <i>[Is Sanskrit a computer friendly language?]</i>
+
+  <a href="https://www.youtube.com/@TheHimsShow">
+    <img src="https://ytcards.demolab.com/?id=YOUR_YOUTUBE_CHANNEL_ID_HERE&title=Recent+Uploads&layout=grid&theme=radical&fontColor=00F2EA&backgroundColor=0d1117&titleColor=ffffff" alt="My YouTube Videos"/>
+  </a>
+  
 </div>
 
 ---
@@ -97,8 +108,8 @@
 <h2 align="center">📈 <span style="color:#00F2EA">Neural Network Status (Stats)</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2EA&icon_color=8A2BE2" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2EA" height="165" alt="languages graph" />
 </div>
 
 ---
