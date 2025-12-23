@@ -18,7 +18,7 @@
       <p align="left">
         👋 <b>Welcome to my corner of the internet.</b>
         <br><br>
-        I’m an AI student on a mission to master the <b style="color:#00F2EA">Full Stack of AI</b>—from the math that powers the models to the code that deploys them.
+        I’m an AI student on a mission to master the <b style="color:#00F2EA">Full Stack of AI</b>,from the math that powers the models to the code that deploys them.
         <br><br>
         🎯 <b>My Philosophy:</b> I don't just like AI; I'm obsessed with solving real-world problems. I keep things straight-forward:
       </p>
