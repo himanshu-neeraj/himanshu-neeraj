@@ -26,7 +26,6 @@
     </td>
   </tr>
 </table>
----
 <h2 align="center">🛠️ <span style="color:#00F2EA">The Arsenal (Tech Stack)</span></h2>
 <p align="center">I believe a true Generalist needs a well-rounded toolkit.</p>
 <div align="center">
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
----
 <h2 align="center">🔭 <span style="color:#00F2EA">Highlighted Projects (The Code)</span></h2>
 ### 1. 🌐 [Himanshu-Neeraj-Portfolio](https://github.com/himanshu-neeraj/Himanshu-Neeraj-Portfolio)
 > **The hub of my digital identity.**
@@ -63,7 +61,6 @@
 ### 5. 💾 [SQL-Programming](https://github.com/himanshu-neeraj/SQL-Programming-)
 > **Data Wrangling HQ.**
 > Because before you can train a model, you have to get the data out of the database.
----
 <h2 align="center">📹 <span style="color:#8A2BE2">Beyond the Code: Content Creation</span></h2>
 <p align="center">I believe in building in public. When I'm not debugging code, I'm creating content.</p>
 <div align="center">
@@ -73,13 +70,11 @@
   <br/><br/>
   👉 <b>Latest Video:</b> <i>[Is Sanskrit a computer friendly language?]</i>
 </div>
----
 <h2 align="center">📈 <span style="color:#00F2EA">Neural Network Status (Stats)</span></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
 </div>
----
 <div align="center">
   
   <br/>
