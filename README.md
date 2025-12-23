@@ -10,8 +10,6 @@
 <table align="center" border="0" bgcolor="#0d1117">
   <tr>
     <td width="60%" valign="center">
-      <pre align="left"><font color="#00F2EA">root@himanshu:~$</font> <font color="#ffffff">cat mission_briefing.txt</font></pre>
-      <br>
       <p align="left">
         👋 <b>Welcome to my corner of the internet.</b>
         <br><br>
