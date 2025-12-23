@@ -13,14 +13,21 @@
 <table align="center" border="0" bgcolor="#0d1117">
   <tr>
     <td width="60%" valign="center">
-      <h2>👾 <span style="color:#00F2EA">root@himanshu:~$ mission_briefing.txt</span></h2>
+      <pre align="left"><font color="#00F2EA">root@himanshu:~$</font> <font color="#ffffff">cat mission_briefing.txt</font></pre>
       <br>
-      <p>Welcome to my corner of the internet. I’m an AI student on a mission to master the <b>full stack of Artificial Intelligence</b>—from the math that powers the models to the code that deploys them.</p>
-      <p>I don't just like AI; I'm obsessed with how it solves real-world problems. I keep things straight-forward:</p>
-      <h3 align="center"><span style="color:#8A2BE2">>_ Code it. Test it. Ship it.</span></h3>
+      <p align="left">
+        👋 <b>Welcome to my corner of the internet.</b>
+        <br><br>
+        I’m an AI student on a mission to master the <b style="color:#00F2EA">Full Stack of AI</b>—from the math that powers the models to the code that deploys them.
+        <br><br>
+        🎯 <b>My Philosophy:</b> I don't just like AI; I'm obsessed with solving real-world problems. I keep things straight-forward:
+      </p>
+      <h3 align="left">
+        <span style="color:#8A2BE2;">&gt;_ Code it. Test it. Ship it.</span>
+      </h3>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://i.pinimg.com/originals/2b/35/b0/2b35b099d245299cd33c42a7103b5c3d.gif" width="90%" style="border-radius: 10px; box-shadow: 0px 0px 20px #8A2BE2;" alt="AI Animation">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F2EA;" alt="AI Animation">
     </td>
   </tr>
 </table>
