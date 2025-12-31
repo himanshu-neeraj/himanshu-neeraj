@@ -57,25 +57,34 @@
 
 <h2 align="center">🔭 <span style="color:#00F2EA">Highlighted Projects (The Code)</span></h2>
 
-### 1. 🌐 [Himanshu-Neeraj-Portfolio](https://github.com/himanshu-neeraj/Himanshu-Neeraj-Portfolio)
-> **The hub of my digital identity.**
-> This isn't just a landing page; it's a showcase built with **JavaScript**. It serves as the central point for my work, blog posts, and project updates.
-
-### 2. 🐍 [The Python Grimoire (Python)](https://github.com/himanshu-neeraj/Python)
-> **From "Hello World" to Advanced Logic.**
-> Originally a comprehensive college assignment, this has evolved into a massive library of Python theory and code examples. If you need a reference for syntax or logic, it's probably in here.
-
-### 3. 📊 [Visualization-Tools](https://github.com/himanshu-neeraj/Visualization-Tools)
-> **Making Data Talk.**
-> Data is useless if you can't understand it. This repo explores various visualization techniques to turn raw numbers into actionable insights.
-
-### 4. 🧮 [Computational-Techniques](https://github.com/himanshu-neeraj/Computational-Techniques)
-> **The Math behind the Magic.**
-> AI isn't magic; it's math. This repo dives into the numerical methods and computational logic that power the algorithms we use every day.
-
-### 5. 💾 [SQL-Programming](https://github.com/himanshu-neeraj/SQL-Programming-)
-> **Data Wrangling HQ.**
-> Because before you can train a model, you have to get the data out of the database.
+<table width="100%" border="0" cellspacing="10" cellpadding="10">
+  <tr>
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #00F2EA; border-radius: 10px;">
+      <h3 align="left">🌐 <a href="https://github.com/himanshu-neeraj/Himanshu-Neeraj-Portfolio">Portfolio Hub</a></h3>
+      <p>The central point of my digital identity. Built with <b>JavaScript</b> to showcase my work, blog posts, and tech evolution.</p>
+    </td>
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #8A2BE2; border-radius: 10px;">
+      <h3 align="left">🐍 <a href="https://github.com/himanshu-neeraj/Python">Python Grimoire</a></h3>
+      <p>A massive library of Python theory and logic. From basic syntax to advanced algorithms and automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #8A2BE2; border-radius: 10px;">
+      <h3 align="left">📊 <a href="https://github.com/himanshu-neeraj/Visualization-Tools">Visual Tools</a></h3>
+      <p>Exploration of data storytelling. Turning raw data into actionable insights using advanced visualization libraries.</p>
+    </td>
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #00F2EA; border-radius: 10px;">
+      <h3 align="left">🧮 <a href="https://github.com/himanshu-neeraj/Computational-Techniques">Math & Logic</a></h3>
+      <p>The math behind the magic. Diving into numerical methods and the core algorithms that power modern AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" bgcolor="#161b22" style="border: 1px solid #00F2EA; border-radius: 10px;">
+      <h3 align="center">💾 <a href="https://github.com/himanshu-neeraj/SQL-Programming-">SQL Programming HQ</a></h3>
+      <p align="center">Advanced data wrangling and database management—because good AI starts with clean data architecture.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
