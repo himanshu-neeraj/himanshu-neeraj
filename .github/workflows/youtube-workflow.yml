@@ -1,9 +1,8 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
@@ -14,6 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          # CORRECTED URL WITH THE MISSING 'l'
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTq4fcAYmgbmU2wapbUlCeg"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
