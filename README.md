@@ -81,7 +81,7 @@
   <tr>
     <td colspan="2" width="100%" bgcolor="#161b22" style="border: 1px solid #00F2EA; border-radius: 10px;">
       <h3 align="center">💾 <a href="https://github.com/himanshu-neeraj/SQL-Programming-">SQL Programming HQ</a></h3>
-      <p align="center">Advanced data wrangling and database management—because good AI starts with clean data architecture.</p>
+      <p align="center">Advanced data wrangling and database management, because good AI starts with clean data architecture.</p>
     </td>
   </tr>
 </table>
