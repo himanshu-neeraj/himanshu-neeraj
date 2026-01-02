@@ -10,7 +10,7 @@
 
 <br/>
 
-<table align="center" border="0" bgcolor="#0d1117">
+<table width="80%" align="center" border="0" bgcolor="#0d1117">
   <tr>
     <td width="60%" valign="center">
       <p align="left">
