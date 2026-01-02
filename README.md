@@ -101,16 +101,12 @@
 
 ---
 
-<h2 align="center">📈 <span style="color:#00F2EA">Neural Network Status (Stats)</span></h2>
+<h2 align="center">📡 <span style="color:#00F2EA">System Telemetry</span></h2>
+<p align="center">Live data stream of current coding operations and output efficiency.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-neeraj&show_icons=true&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-neeraj&layout=compact&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="languages graph" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-neeraj&theme=dark&hide_border=true&ring=8A2BE2&fire=00F2EA&currStreakLabel=00F2EA&background=0d1117" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 ---
