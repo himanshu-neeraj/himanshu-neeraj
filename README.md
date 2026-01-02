@@ -95,7 +95,6 @@
   <a href="https://www.youtube.com/@TheHimsShow" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Channel-SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
   </a>
-  <br/><br/>
   
   </div>
 
