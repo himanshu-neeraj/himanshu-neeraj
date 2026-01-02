@@ -103,7 +103,7 @@
 
 <h2 align="center">⚡ <span style="color:#00F2EA">Activity Frequency</span></h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuneeraj&theme=react-dark&bg_color=0d1117&hide_border=true&line=00F2EA&color=8A2BE2" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-neeraj&theme=react-dark&bg_color=0d1117&hide_border=true&line=00F2EA&color=8A2BE2" width="100%" />
 </div>
 
 ---
