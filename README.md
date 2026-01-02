@@ -102,11 +102,9 @@
 ---
 
 <h2 align="center">🕹️ <span style="color:#00F2EA">Gamified Contribution Graph</span></h2>
-<p align="center">Watch the snake consume my commits.</p>
-
-<div align="center">
-  <img src="https://github.com/platane/platane/raw/master/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/himanshuneeraj/himanshuneeraj/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
