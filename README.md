@@ -101,12 +101,12 @@
 
 ---
 
-<h2 align="center">📡 <span style="color:#00F2EA">System Telemetry</span></h2>
-<p align="center">Live data stream of current coding operations and output efficiency.</p>
+<h2 align="center">🧠 <span style="color:#8A2BE2">Model Training Logs</span></h2>
+<p align="center">Tracking the epochs of my daily learning. <span style="color:#00F2EA">Loss function is decreasing.</span></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&hide_border=true&title_color=00F2EA&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuneeraj&theme=dark&hide_border=true&ring=8A2BE2&fire=00F2EA&currStreakLabel=00F2EA&background=0d1117" height="180" alt="streak graph" />
 </div>
 
 ---
