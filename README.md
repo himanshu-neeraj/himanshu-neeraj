@@ -25,7 +25,7 @@
       </h3>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F2EA;" alt="AI Animation">
+      <img src="https://media.giphy.com/media/JCQuyX4Hj4Qjm/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00F2EA;" alt="AI Animation">
     </td>
   </tr>
 </table>
