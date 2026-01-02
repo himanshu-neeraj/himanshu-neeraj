@@ -104,8 +104,8 @@
 <h2 align="center">📈 <span style="color:#00F2EA">Neural Network Status (Stats)</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuneeraj&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneeraj&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-neeraj&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-neeraj&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
 </div>
 
 ---
