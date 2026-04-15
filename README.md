@@ -127,3 +127,53 @@
   <br/><br/>
   <sub style="color:#8A2BE2">End of Line // Himanshu Neeraj</sub>
 </div>
+
+---
+
+## 🌐 Personal Website (GitHub Pages)
+
+A fully responsive personal website lives in this repository at [`index.html`](./index.html) and is served automatically via **GitHub Pages**.
+
+🔗 **Live site:** [himanshu-neeraj.github.io/himanshu-neeraj](https://himanshu-neeraj.github.io/himanshu-neeraj/)
+
+### Enable GitHub Pages
+
+> **One-time setup** — only needed if Pages isn't active yet.
+
+1. Go to **Settings → Pages** in this repository.
+2. Under **Source**, select **GitHub Actions**.
+3. Click **Save**.
+
+The included workflow (`.github/workflows/pages.yml`) will automatically build and deploy the site on every push to `main`.
+
+### Preview Locally
+
+No build step is required — it's plain HTML & CSS.
+
+```bash
+# Clone the repo
+git clone https://github.com/himanshu-neeraj/himanshu-neeraj.git
+cd himanshu-neeraj
+
+# Open directly in your browser
+open index.html          # macOS
+xdg-open index.html      # Linux
+start index.html         # Windows
+```
+
+Or serve it with Python's built-in HTTP server:
+
+```bash
+python -m http.server 8080
+# Then visit http://localhost:8080
+```
+
+### Making Edits
+
+| File | Purpose |
+|------|---------|
+| `index.html` | All website content (hero, about, projects, contact) |
+| `assets/style.css` | All styles — colours, layout, responsive breakpoints |
+| `.github/workflows/pages.yml` | Auto-deploy workflow |
+
+Edit either file, commit, and push to `main` — the site updates automatically within ~1 minute.
