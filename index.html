@@ -291,9 +291,9 @@ I found your website and wanted to reach out.</textarea>
       <script>
         const EMAIL = 'himanshuneeraj2917@gmail.com';
         function updateMailto() {
-          var subject = encodeURIComponent(
+          const subject = encodeURIComponent(
             document.getElementById('contact-subject').value || 'Hello');
-          var body = encodeURIComponent(
+          const body = encodeURIComponent(
             document.getElementById('contact-message').value || '');
           document.getElementById('mailto-btn').href =
             'mailto:' + EMAIL + '?subject=' + subject + '&body=' + body;
