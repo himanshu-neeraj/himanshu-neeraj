@@ -183,7 +183,7 @@ section {
 /* ── About ── */
 .about-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
   align-items: start;
 }
@@ -282,7 +282,7 @@ section {
 /* ── Contact ── */
 .contact-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 2.5rem;
   align-items: start;
 }
